@@ -99,7 +99,10 @@ Google has shown **60 of your `/post/` pages**. Pages with the most activity:
 
 "Dofollow" means Google counts the link toward your site's authority.
 
-**Not found by OpenSEO:** Substack, SF Gate, Authority Magazine, and any Medium articles beyond the two above. **[UNVERIFIED]** Whether those links exist.
+**Not found by OpenSEO:** Substack, SF Gate, Authority Magazine, and any Medium articles beyond the two above.
+- **SF Gate** (Feb 26, 2024): https://www.sfgate.com/local/article/relationship-coach-for-powerful-men-in-tech-18672801.php. OpenSEO has no record of a link from sfgate.com to your site, current or lost (checked 2026-09-26).
+- **Authority Magazine**: https://medium.com/authority-magazine/dr-jessica-gold-of-bliss-science-on-how-to-navigate-our-complicated-modern-world-to-find-love-5e3b71c5b7e5. OpenSEO has no record of a link from it, current or lost (checked 2026-09-26).
+- **[UNVERIFIED]** Whether these pages contain links. The pages themselves couldn't be opened from this environment.
 - **To verify:** the GSC "Links" report (search.google.com/search-console → Links), or send me the exact URLs and I'll check each page.
 
 ---
