@@ -100,9 +100,9 @@ Google has shown **60 of your `/post/` pages**. Pages with the most activity:
 "Dofollow" means Google counts the link toward your site's authority.
 
 **Not found by OpenSEO:** Substack, SF Gate, Authority Magazine, and any Medium articles beyond the two above.
-- **SF Gate** (Feb 26, 2024): https://www.sfgate.com/local/article/relationship-coach-for-powerful-men-in-tech-18672801.php. OpenSEO has no record of a link from sfgate.com to your site, current or lost (checked 2026-09-26).
+- **SF Gate** (Feb 26, 2024): https://www.sfgate.com/local/article/relationship-coach-for-powerful-men-in-tech-18672801.php. **Verified 2026-09-26 by reading the page: it names "Bliss Science" in the text but contains no link to bliss-science.com.** OpenSEO also has no record of one.
 - **Authority Magazine**: https://medium.com/authority-magazine/dr-jessica-gold-of-bliss-science-on-how-to-navigate-our-complicated-modern-world-to-find-love-5e3b71c5b7e5. OpenSEO has no record of a link from it, current or lost (checked 2026-09-26).
-- **[UNVERIFIED]** Whether these pages contain links. The pages themselves couldn't be opened from this environment.
+- **[UNVERIFIED]** Whether the Authority Magazine page contains a link; medium.com is still blocked from this environment.
 - **To verify:** the GSC "Links" report (search.google.com/search-console → Links), or send me the exact URLs and I'll check each page.
 
 ---
@@ -144,9 +144,11 @@ This plan is my judgment based on the numbers above. **[UNVERIFIED]** What resul
    - Ask the 5 upcoming hosts to link to a specific article, such as "Before You Walk Away", as well as your homepage.
 
 ### Month 2 (November)
-1. **Consolidate the four "fix your sexless marriage" posts** into the strongest one, `fix-your-sexless-marriage` (1,455 impressions, position 10.5), and redirect the other three to it.
-   - Needs your approval: this removes three URLs.
-   - **[UNVERIFIED]** The ranking effect. We'll measure it in GSC afterward.
+1. **Clean up the four "fix your sexless marriage" URLs** (approved by Jessica 2026-09-26).
+   - **Verified by reading the pages:** `how-to-fix-your-sexless-marriage`, `-2` and `-with-this-one-weird-trick` are **identical empty pages**, with a title and author box and no article text. There is no content to merge.
+   - **Steps in Webflow:** add a 301 redirect from each of the three paths to `/post/fix-your-sexless-marriage`, then unpublish or delete the three posts.
+   - **Also verified:** `fix-your-sexless-marriage` (592-word article plus an FAQ) has an **empty meta description**.
+   - **Baseline (GSC, 16 months):** 10 clicks, 1,455 impressions, position 10.5.
 2. **New: "I Was the Wife Who Didn't Want to Talk About It."** Your cornerstone story, linked from all sexless-marriage posts.
 
 ### Months 3–5 (December – February): New articles on measured husband-side searches
