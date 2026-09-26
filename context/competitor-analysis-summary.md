@@ -1,218 +1,208 @@
 # Bliss Science Competitor Analysis Summary
 
-**Updated**: 2026-09-26
-**Sources**: Competitor comparison CSV (15 coaches, prepared 2026-04-24) + web research + bliss-science.com copy
-**Market**: Relationship and intimacy coaching for high-achieving men and couples
+**Updated**: 2026-09-26 (revised with OpenSEO measurements)
+**Focus**: Sexless marriage and intimacy for high-achieving men and couples. Dating and matchmaking are out of scope.
+**Related files**: `competitor-analysis-verification.md` (full measurement detail), `bliss-science-seo-plan.md` (your own site's data and the 6-month plan)
+
+## How to Read This File
+
+There are two kinds of information here:
+- **Measured**: from OpenSEO on 2026-09-26 (Google US search data), or from reading a page directly. Stated as fact, with the source named.
+- **From the source CSV**: competitor details from the comparison CSV (prepared 2026-04-24) and earlier web research, such as credentials, pricing, episode counts, funnels and voice. **These have not been verified** and are marked **[CSV, UNVERIFIED]**.
+
+Recommendations are marked **Recommendation**; they're judgment calls, not facts.
 
 ---
 
 ## Executive Summary
 
-Dr. Jessica Gold (Bliss Science) coaches high-achieving men in tech/STEM, and their partners, through sexless marriages, disconnection, and dating after divorce. She positions herself as an MIT-trained PhD chemist and neuroscientist, and she calls the method "Relationship Chemistry™."
+Dr. Jessica Gold (Bliss Science) coaches high-achieving men in tech and STEM, and their partners, through sexless marriages and disconnection. She's an MIT-trained PhD chemist with a neuroscience postdoc (per bliss-science.com), and she calls her method "Relationship Chemistry™."
 
-**The founder niche is contested.** Three competitors already sell to founders and high-net-worth men:
-- **Jonathan Herzog** owns the founder-marriage podcast lane (Harvard Law + Stern MBA; coaches well-known founders).
-- **Katarina Polonska** is the closest positional match: a "science-based" coach for elite professionals and founders.
-- **David Tian** is a private adviser to founders on "hollow success."
+**Measured: the founder-focused coaches are nearly invisible in Google search.**
 
-**The open ground is a combination nobody else has.** No single competitor has all four of these:
-1. A hard-science credential (a chemistry PhD, not social science or law)
-2. Dead-bedroom and intimacy specialization
-3. A female point of view ("I was that wife who didn't want to talk about it")
-4. Long-form written content that ranks in search. Herzog, Polonska and Tian are mostly podcast-led.
+| Coach | Keywords they rank for | Est. visits/mo |
+|---|---:|---:|
+| Jonathan Herzog (jonathanherzogcoach.com) | 16 | 24 |
+| Katarina Polonska | 43 | 50 |
+
+**Measured: founders don't search as founders.**
+- "founder relationship coach": no measurable search volume.
+- "entrepreneur marriage problems" and "married to an entrepreneur": 10/mo each.
+
+**Measured: the coaches who win the husband-side sexless-marriage searches are:**
+- **Stephen Hedger**, ~10,300 est. visits/mo
+- **Shana James** (a friend), ~2,300
+- **Irene Fehr**, ~1,900
+
+The Gottman Institute leads the broad "sexless marriage" search (#1, 8,100/mo).
+
+**Recommendation:** position on a combination no one else in this set shows:
+1. A hard-science credential (chemistry PhD)
+2. Sexless-marriage specialization for high-achieving men
+3. A female, first-person view: "I was that wife"
+
+**[UNVERIFIED]** Whether any competitor outside this list of 15 has all three.
 
 ---
 
 ## Threat Tiers at a Glance
 
-| Threat | Coach | Why they matter |
+Two different kinds of threat:
+- **Search threat** (measured): who you'd compete with on Google.
+- **Positioning threat** (from the CSV, unverified): who sells to the same buyer.
+
+| Coach | Search threat (measured) | Positioning threat (CSV, unverified) |
 |---|---|---|
-| **HIGH** | Katarina Polonska | Strongest single positional competitor: affluent, science-backed, founder-friendly |
-| **HIGH** | Jonathan Herzog | Owns the founder-marriage podcast lane; exact target audience |
-| **HIGH** | Stephen Hedger | "Top 1%" elite couples; most direct competitor on affluence |
-| **HIGH** | Irene Fehr | Closest SEO content overlap (dead bedroom, couples, research-informed) |
-| **HIGH** | David Chambers | Same evidence-based stack (Basson, attachment) and same problem set |
-| **HIGH** | Cass Morrow | Owns YouTube search for "save my marriage" |
-| **HIGH** | Tim Matthews | Owns "successful man in a stuck marriage" via 600+ episodes and a mastermind |
-| **HIGH** (audience) | David Tian | Founder audience overlap; not intimacy-specific |
-| **MED-HIGH** | Melanie Curtin | Science framing + dead-bedroom content; broader audience |
-| **MED** | Karen Brody | Teaches men to awaken wives' desire; tantric, not science |
-| **MED** | Connor Beaton | Same "smart reflective man"; different problem (shadow work) |
-| **MED** | Shana James | Shared "communication + passion" keywords; different audience tier |
-| **LOW-MED** | Stuart Motola | Marriage repair for men; mid-market, no science |
-| **LOW** | Sarrah Rose | Tantra/feminine embodiment; mainly serves women |
-| **LOW** | Martin Thompson | Weak public content footprint |
+| **Stephen Hedger** | **HIGH.** 2,542 keywords, ~10,300 visits/mo. #1 "how to save my marriage" (720/mo). | HIGH: "top 1%" elite couples |
+| **Shana James** *(friend)* | **HIGH overlap.** #1–4 on "how to get my wife to want me again", "wife never wants to have sex" (390/mo), "why won't my wife have sex with me" (390/mo). Live check: #4 for the last one. | Medium. **Recommendation:** treat her as a collaborator (podcast swap, cross-links). |
+| **Irene Fehr** | **HIGH.** #3 "when to walk away from sexless marriage" (1,600/mo), where Jessica ranks 4.6. #2 "sexless marriage men". | High: sexless marriage, couples |
+| **Gottman Institute** | **HIGH** on broad terms: #1 "sexless marriage", #3 "how to fix a sexless marriage" | Not a competitor. An authority to cite. |
+| **David Tian** | Medium. 1,863 keywords, ~4,800 visits/mo, mostly attraction and masculinity terms | High: founder audience |
+| **Tim Matthews** | Low for marriage. ~4,000 visits/mo; his top 20 terms are mostly "alpha vs beta male" | Medium |
+| **Cass Morrow** | Low on Google. 186 keywords, ~715 visits/mo. YouTube not checked. | Medium. Facebook page shows 752K followers (measured from search results). |
+| **Katarina Polonska** | Low (43 keywords, ~50 visits/mo) | High: elite professionals and founders |
+| **Jonathan Herzog** | Low (16 keywords, ~24 visits/mo) | **High.** His X profile lists "The Sexless Marriage Cure" and his LinkedIn says "coach to $1T+ portfolio of tech founders" (measured from search results). |
+| **Melanie Curtin** | Low (58 keywords, ~142 visits/mo) | Medium |
+| **David Chambers** | Not measured | **Profile needs a re-check.** Search found "The Authentic Man" (UK men's dating and intimacy coach), not the "Love & Life with Dr Chambers" podcast the CSV describes. Jessica was a guest on The Authentic Man. |
+| Karen Brody, Connor Beaton, Stuart Motola, Sarrah Rose, Martin Thompson | Not measured, except Stuart Motola (#10 for "sexless marriage effect on husband") | Low to medium per the CSV |
 
 ---
 
-## HIGH-Threat Competitor Profiles
+## Competitor Profiles
 
-### Katarina Polonska: strongest positional competitor
-- **Platform**: "Successfully in Love" podcast, LinkedIn, website
-- **Promise**: "High Performance Relationship Expert" for elite professionals; Successfully in Love® Method (rewiring subconscious patterns)
-- **Credential**: Oxford-educated social scientist (gender dynamics)
-- **Funnel**: Podcast/LinkedIn → free 20-min call → masterclass → private coaching (high-ticket)
-- **Voice**: Intellectual, performance-focused, UK-polished
-- **Jessica's edge**: A chemistry PhD (hard science, not social science); dead-bedroom specialization; US founder lane
+Details in these profiles come from the source CSV **[CSV, UNVERIFIED]** unless labeled **Measured**.
 
-### Jonathan Herzog: owns the founder-marriage podcast lane
-- **Platform**: Jonathan Herzog Podcast (87+ episodes), private 1:1
-- **Top content**: "If I'm So Rich Why Doesn't My Wife Respect Me?", "You're So Wise — Why Won't Your Wife Fuck You?", "Founder Mode"
-- **Credential**: Harvard Law + Stern MBA; coaches prominent founders and investors
-- **Pricing**: Private 1:1, estimated at $50K–150K
-- **Voice**: Witty, paradoxical, founder vernacular, punchy titles
-- **Jessica's edge**: A female point of view; scientist credentials; she works with couples; written long-form content, which Herzog doesn't produce
-- **Lesson to borrow**: Paradox-style titles and re-releasing evergreen hits (his "[MVP]" tag)
+### Stephen Hedger (Marriage Breakthrough)
+- **Measured:** 2,542 ranking keywords, ~10,261 est. US visits/mo.
+  - #1 for "how to save my marriage", "how to fix a broken marriage" and "save marriage".
+  - Pages about "masculine women" account for ~4,070 of the estimated visits.
+- **CSV:** UK private practice; "Top 1% Marriages Do Something Different"; CEO, celebrity and judge case studies; intensives reportedly five to six figures.
+- **Recommendation:** Jessica's edge is science credentials and founder specificity. Borrow his discretion signals, such as anonymized executive case studies.
 
-### Stephen Hedger (Marriage Breakthrough): the elite couples specialist
-- **Platform**: Website, YouTube, private practice (UK)
-- **Top content**: "Top 1% Marriages Do Something Different", case studies from CEO, celebrity and judge clients
-- **Pricing**: Private intensives, reportedly five to six figures
-- **Voice**: Authoritative, reserved, signals discretion
-- **Jessica's edge**: Science credentials, more content, and specificity to founders
+### Shana James *(friend)*
+- **Measured:** 343 ranking keywords, ~2,269 est. visits/mo.
+  - Her page "20 Reasons Your Wife Doesn't Want Sex" (`/how-to-rekindle-desire/`) ranks for many husband-side desire searches.
+  - Live check today: #4 for "why won't my wife have sex with me".
+- **CSV:** "Man Alive" and "Practicing Love" podcasts; the book *Power and Pleasure*; serves men 40+.
+- **Recommendation:** collaborate rather than compete. Your planned article "Why Won't My Wife Have Sex With Me?" targets the same search.
 
-### Irene Fehr: the closest SEO competitor
-- **Platform**: SEO-heavy blog, Medium, podcast appearances
-- **Top content**: "Why women lose interest in sex in long-term relationships", "Sexless marriage: What to do when your partner doesn't want sex"
-- **Stack**: Responsive-desire model (Basson), attachment-informed, somatic-adjacent
-- **Pricing**: About $300–500/session
-- **Why it matters**: If Jessica targets dead-bedroom keywords, Fehr is the article she has to outrank
-- **Jessica's edge**: A men-first angle, the founder audience, and chemistry/neuroscience depth
+### Irene Fehr
+- **Measured:** 278 ranking keywords, ~1,874 est. visits/mo.
+  - #3 "when to walk away from sexless marriage" (1,600/mo)
+  - #2 "sexless marriage men" (140/mo)
+  - #8 "sexless marriage effect on husband" (880/mo)
+  - Not in the top 20 for "dead bedroom" or "partner doesn't want sex".
+- **CSV:** responsive-desire model (Basson); about $300–500/session.
 
-### David Chambers: same evidence-based stack
-- **Platform**: "Love & Life with Dr Chambers" podcast, YouTube, Instagram
-- **Top content**: "How to turn around a sexless marriage", "The psychology of desire in long-term relationships"
-- **Stack**: CBT + attachment + desire models (Basson, Gottman-adjacent)
-- **Funnel**: Podcast → email → courses → 1:1
-- **Jessica's edge**: A chemistry PhD and founder specificity; a bolder voice than his clinical tone
+### Gottman Institute
+- **Measured:** #1 "sexless marriage" (8,100/mo), #3 "how to fix a sexless marriage", #2 "how to rekindle passion in marriage".
+- **Recommendation:** cite them; don't try to outrank them on the broad head term first.
 
-### Cass Morrow (Morrow Marriage): owns "save my marriage" on YouTube
-- **Platform**: YouTube (hundreds of videos), podcast, coaching
-- **Top content**: "The Husband's Playbook: How to Save Your Marriage When She's Done", "Why she's checked out and how to bring her back"
-- **Pricing**: Husband's Playbook $997 → Mastermind $5K–15K
-- **Audience**: Men aged 35–60 in crisis marriages; mix of blue- and white-collar; not affluent-exclusive
-- **Voice**: Direct, no-fluff, accountability-heavy, slightly evangelical
-- **Jessica's edge**: Science, couples work, affluent tier. Same problem ("she's checked out") but a different stack.
-- **Lesson to borrow**: His "wife is done / checked out" framing matches what men actually search for
+### Jonathan Herzog
+- **Measured:** his website barely ranks (16 keywords). Search results show his podcast describes itself as "for the world's leading founders". His X profile lists "The Sexless Marriage Cure".
+- **CSV:** Harvard Law and Stern MBA; 87+ episodes; titles like "You're So Wise — Why Won't Your Wife Fuck You?"; private 1:1 estimated at $50K–150K.
+- **Note:** Jessica's post "You're So Rich, Why Won't Your Wife F*ck You?" uses a similar title pattern.
 
-### Tim Matthews (The Powerful Man / Good Guys to Great Men)
-- **Platform**: Podcast (600+ episodes), YouTube, M1 Brotherhood mastermind
-- **Top content**: "How To Get The Spark Back In The Bedroom", "Why Your Wife Doesn't Respect You Anymore", "The Nice Guy Trap"
-- **Pricing**: M1 Brotherhood, estimated $15K–30K
-- **Audience**: Married men aged 35–55, business owners, executives
-- **Stack**: "Nice Guy" paradigm (Glover-influenced), masculine leadership, men's groups
-- **Jessica's edge**: Intimacy science instead of men's-group work; a female point of view
+### Katarina Polonska
+- **Measured:** 43 ranking keywords, ~50 visits/mo. #12 for "relationship coach for entrepreneurs".
+- **CSV:** Oxford-educated social scientist; "Successfully in Love" podcast; elite professionals and founders.
 
-### David Tian, PhD (Beyond Success)
-- **Platform**: "Beyond Success" podcast, courses, private advisory
-- **Top content**: "Why Love Feels So Much Harder Than Everything Else", "The Cold, Hard Truth About Why Your Life is Impressive, But Meaningless"
-- **Pricing**: Advisory $5K–20K+/hr; FreedomU Platinum $4,995
-- **Stack**: Philosophy + psychology, IFS Level 3
-- **Risk**: Could own "founder relationships" broadly, but he doesn't specialize in intimacy or dead bedrooms
+### David Tian
+- **Measured:** 1,863 ranking keywords, ~4,775 visits/mo. The ranking pages are in his podcast section, on attraction and masculinity topics.
+- **CSV:** "Beyond Success" podcast; advisory $5K–20K+/hr; IFS-trained.
 
----
+### Tim Matthews (The Powerful Man)
+- **Measured:** 1,048 ranking keywords, ~4,039 visits/mo. His top 20 terms by traffic are mostly "alpha vs beta male". His other keywords weren't reviewed.
+- **CSV:** 600+ podcast episodes; M1 Brotherhood mastermind, estimated $15K–30K.
 
-## MEDIUM and LOW Threat Profiles
+### Cass Morrow (Morrow Marriage)
+- **Measured:**
+  - 186 ranking keywords, ~715 visits/mo.
+  - His site says "Over 8000 helped in the last 4 years" (search result snippet).
+  - His Facebook page shows 752K followers.
+  - On Google, a Facebook video of his is #16 for "sexless marriage what to do".
+  - **[UNVERIFIED]** His YouTube rankings.
+- **CSV:** Husband's Playbook $997; mastermind $5K–15K.
 
-- **Melanie Curtin (MED-HIGH)**: "Dear Men" podcast (388+ episodes). A Stanford-educated sex researcher who uses survey data ("3 Good Sex Moves for Men, as Offered by 1,067 Women"). Courses $69–497 plus an 18-week program. Her data-driven framing could attract the same searcher.
-- **Karen Brody (MED)**: Book *Open Her* → retreats ($3K–7K) → 1:1. Neo-tantric polarity for men aged 40–65. Similar demographic, different philosophy.
-- **Connor Beaton / ManTalks (MED)**: 500+ podcast episodes and the book *Men's Work*. Jungian shadow work, IFS-adjacent. Shares the educated, reflective audience but isn't focused on couples or dead bedrooms.
-- **Shana James (MED)**: "Man Alive" and "Practicing Love" podcasts, the book *Power and Pleasure*. 20 years of Authentic Relating. Warm "translator between men and women" voice. Serves men 40+ across a broad market.
-- **Stuart Motola (LOW-MED)**: $67/mo membership → 6-week intensive. Action-first, no therapy-talk. Mid-market.
-- **Sarrah Rose (LOW)**: Viral Instagram/TikTok sex coaching; audience is mainly women aged 25–45.
-- **Martin Thompson (LOW)**: Little public content; unclear differentiation.
+### Melanie Curtin
+- **Measured:** 58 ranking keywords, ~142 visits/mo.
+- **CSV:** "Dear Men" podcast (388+ episodes); survey-data framing.
+
+### David Chambers
+- **Measured:** search shows "The Authentic Man Podcast with David Chambers" (UK). Jessica appeared on the episode "Why So Many Successful Men Are in Sexless Marriages".
+- **CSV (likely a different person or out of date):** "Love & Life with Dr Chambers"; CBT + Basson.
+
+### Others (CSV only, UNVERIFIED)
+- **Karen Brody:** *Open Her*; neo-tantric polarity for men 40–65.
+- **Connor Beaton / ManTalks:** men's work, shadow work. Search results show "8M+ podcast downloads" on his Instagram.
+- **Stuart Motola:** $67/mo membership; mid-market. **Measured:** #10 for "sexless marriage effect on husband".
+- **Sarrah Rose:** sex coaching on social media; mainly women 25–45.
+- **Martin Thompson:** little public content.
 
 ## Teachers and Institutions (not direct competitors)
-
-- **Terry Real (Relational Life Therapy)** and **John Wineland (Embodied Relationship)** are listed among Jessica's own teachers. Treat them as lineage and cross-promotion opportunities, not rivals.
-- **The Gottman Institute** dominates research-backed SERPs, for example "how to rekindle passion in marriage." It's an authority to cite, not to fight.
-
----
-
-## Coverage Gaps in the Current Analysis
-
-1. **Dating after divorce**: The CSV has almost no coaches focused on divorced men. Web research surfaced Jade Bianca (datingafterdivorce.com), Connell Barrett (Dating Transformation), and Kimberly Nina Hill. These need a proper profile.
-2. **Luxury matchmaking**: Bliss Science offers matchmaking, but no matchmaking competitors have been analyzed yet.
-3. **Keyword data**: Verified with OpenSEO on 2026-09-26. See `competitor-analysis-verification.md`. Several threat tiers and content priorities need revising based on it.
+- **Terry Real** (Relational Life Therapy) and **John Wineland** are among Jessica's teachers, per the CSV. **Recommendation:** treat them as lineage and cross-promotion.
+- **The Gottman Institute:** see above.
 
 ---
 
-## Where Jessica Wins
+## Where Jessica Stands (measured, from GA and GSC; see `bliss-science-seo-plan.md`)
+- **Google Search Console (Aug 26 – Sep 23):** 62 clicks from Google.
+  - "Before You Walk Away From Your Sexless Marriage" ranks **4.5** for "when to walk away from sexless marriage", competing directly with Fehr.
+- **Google Analytics (Aug 27 – Sep 24):** 1,814 visits. 103 of them came from organic search.
+- **Links:** 81 websites link to bliss-science.com, including The Good Men Project (115 links) and The Bootstrapped Founder.
 
-| Advantage | Who lacks it |
+## Where Jessica Wins (Recommendation, based on the above)
+
+| Advantage | Evidence |
 |---|---|
-| Hard-science PhD (chemistry/neuroscience) | Polonska (social science), Herzog (law/MBA), Chambers (psychology), Curtin (Master's) |
-| Female point of view on men's intimacy | Herzog, Morrow, Matthews, Tian, Hedger, Beaton |
-| Dead-bedroom specialization for affluent men | Polonska, Herzog, Tian, Hedger are broader |
-| Founder-specific language and lived experience as a tech founder | Fehr, Chambers, Morrow, Curtin, James |
-| Written long-form SEO content (opportunity) | Herzog, Polonska, Tian, Matthews are podcast/referral-led |
-| Works with the man alone *and* with couples | Morrow, Matthews, Motola are men-only |
+| Hard-science PhD | Stated on bliss-science.com. None of the measured search leaders (Hedger, James, Fehr) lead with a hard-science credential **[UNVERIFIED beyond their ranking pages]**. |
+| Female, first-person "I was that wife" story | Not found in the top 20 results for "why won't my wife have sex with me" (live check) |
+| Already ranking on a core term | GSC: position 4.5 on "when to walk away from sexless marriage" |
+| Written content where founder coaches are absent | Herzog and Polonska have under 50 ranking keywords each |
 
-## Where Jessica Is Exposed
-
-- **Audience size**: Matthews (600+ episodes), Beaton (500+), Curtin (388+) and Morrow (hundreds of videos) have far bigger audiences.
-- **Founder brand**: Herzog has name-brand founder clients and referrals.
-- **Elite discretion**: Hedger and Polonska already signal "top 1%" credibility.
-- **SEO head start**: Fehr already ranks for the dead-bedroom articles Jessica would write.
+## Where Jessica Is Exposed (measured)
+- **Search authority:** Hedger's estimated traffic (~10,300/mo) is far above Jessica's 62 Google clicks in 28 days.
+- **Husband-side desire searches:** Shana James and Fehr already rank for them.
+- **Herzog** is pitching sexless marriage directly to founders (his X profile).
 
 ---
 
 ## Strategic Recommendations
 
-### 1. Position on the intersection, not on "founders" alone
-"Founder relationship coach" is already occupied. Lead with this: **"The PhD chemist who was *that wife* — helping founders end the dead bedroom."** No competitor can say it.
+1. **Win the husband's problem search, then speak to the founder inside the article.** Founder-framed searches have almost no volume.
+2. **Build on what already ranks.** Start with "Before You Walk Away" (position 4.5) and "How to Revive a Dead Bedroom" (3,292 impressions over 16 months). See the plan.
+3. **Use the "I was that wife" perspective.** No page in the top 20 for the core search offers it (live check).
+4. **Collaborate with Shana James** rather than compete.
+5. **Use founder-framed ideas on LinkedIn and Substack,** where the audience already is. "Founder Mode Is Killing Your Marriage" fits there.
+   - **[UNVERIFIED]** What "founder mode" searchers (590/mo) want; that results page wasn't checked.
 
-### 2. Win written search where the founder coaches don't publish
-Herzog, Polonska and Tian rely on podcasts and referrals. Long-form articles on founder/high-achiever intimacy face little written competition.
+## Priority Content (measured search volume · difficulty out of 100)
+1. **"Why Won't My Wife Have Sex With Me?"**: 390 · 0, plus related searches (390 + 210 + 170). **In progress.**
+2. **"I Was the Wife Who Didn't Want to Talk About It"**: cornerstone story, no search target.
+3. **"What a Sexless Marriage Does to a High-Performing Man"**: 880 · 0.
+4. **"Responsive Desire: The Chemistry of Why She Doesn't Initiate"**: 2,400 · 12.
+5. **"What Is a Sexless Marriage?"**: define sexless marriage 1,000; sexless marriage 8,100 · 1.
 
-### 3. Outrank Irene Fehr on dead-bedroom topics with a men-first angle
-Target the same searches ("partner doesn't want sex," "why women lose interest"), but write from the husband's side, add neuroscience depth, and tell Jessica's own "I was that wife" story.
+**Removed from the earlier list:**
+- "Why She's Checked Out": the search gets 40/mo.
+- "Dating After Divorce for Founders": out of scope.
 
-### 4. Meet Cass Morrow's searcher higher up the market
-Men search "she's checked out" and "wife is done." Write for those phrases, aimed at affluent men, with science instead of accountability sermons.
-
-### 5. Borrow what works
-- Herzog's paradox titles: "If you can scale a company, why can't you get laid at home?"
-- Curtin's data hooks: survey stats as headlines
-- Hedger's discretion signals: anonymized founder/executive case studies
-
----
-
-## Priority Content Ideas
-
-1. **"I Was the Wife Who Didn't Want to Talk About It"**: A cornerstone personal story no competitor can copy
-2. **"Why She's Checked Out (A Chemist Explains the Neuroscience)"**: Takes on Morrow's and Fehr's searchers
-3. **"Founder Mode Is Killing Your Marriage"**: Takes on Herzog's audience with written, science-backed content
-4. **"Your Relationship Affects Your Bottom Line"**: The business-to-intimacy bridge, using data
-5. **"Sexless Marriage When She Won't Engage: Science-Backed Moves for Husbands"**
-6. **"Dating After Divorce for Founders"**: The post-divorce lane is under-analyzed and may be less crowded
-
----
-
-## Brand Voice Reminders
-
-- **Pillars**: Direct and real, scientifically credible yet soulful, empowering, results-driven, boldly provocative
-- **Terminology**: Relationship Chemistry™, Chemistry Call, King energy, Relational IQ, "get on the same team"
-- **Tone**: Bolder than Polonska and Chambers, warmer than Morrow and Matthews, more scientific than Brody and Wineland
-
----
-
-## Watch List
-
-- **Weekly**: Herzog podcast titles, Polonska podcast/LinkedIn, Fehr blog, Morrow YouTube
-- **Monthly**: Rankings for dead-bedroom, "wife checked out," and founder-relationship terms
-- **Quarterly**: Refresh this analysis; add matchmaking and post-divorce competitors
+## Watch List (Recommendation)
+- **Monthly:** your Search Console positions for the priority searches above; Herzog's sexless-marriage content.
+- **Quarterly:** re-run the OpenSEO checks in `competitor-analysis-verification.md`.
 
 ## Competitor Links
-
-- Katarina Polonska: https://www.katarinapolonska.com/
+- Stephen Hedger: https://www.stephenhedger.com/
 - Shana James: https://shanajamescoaching.com/
+- Irene Fehr: https://www.irenefehr.com/
+- Gottman Institute: https://www.gottman.com/
+- Jonathan Herzog: https://www.jonathanherzogcoach.com/
+- Katarina Polonska: https://www.katarinapolonska.com/
+- David Tian: https://davidtianphd.com/
+- Tim Matthews: https://www.thepowerfulman.com/
+- Cass Morrow: https://www.morrowmarriage.com/
 - Melanie Curtin: https://www.melaniecurtin.com/
 - Stuart Motola: https://www.stuartmotola.com/
-- Tim Matthews: https://www.thepowerfulman.com/
-- David Tian: https://davidtianphd.com/
-- Stephen Hedger: https://www.stephenhedger.com/
+- Connor Beaton: https://mantalks.com/
 - Terry Real: https://terryreal.com/
 - John Wineland: https://johnwineland.com/
-- Gottman Institute: https://www.gottman.com/
-- Others (Herzog, Morrow, Fehr, Chambers, Brody, Beaton, Rose, Thompson): see the source CSV
