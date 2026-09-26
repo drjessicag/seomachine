@@ -96,4 +96,4 @@ All data is for the US market only. That matters for UK-based competitors (Hedge
 
 - YouTube rankings (Morrow, Matthews, Chambers)
 - Podcast episode counts, pricing, credentials: OpenSEO can't check these
-- Backlink profiles: backlink data came back empty for all domains in the overview call
+- Competitor backlink profiles. Bliss Science's own backlinks were checked later: 81 referring domains, led by The Good Men Project (115 links) and The Bootstrapped Founder. See `bliss-science-seo-plan.md`.
