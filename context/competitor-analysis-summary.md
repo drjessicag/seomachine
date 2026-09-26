@@ -133,7 +133,7 @@ Dr. Jessica Gold (Bliss Science) coaches high-achieving men in tech/STEM, and th
 
 1. **Dating after divorce**: The CSV has almost no coaches focused on divorced men. Web research surfaced Jade Bianca (datingafterdivorce.com), Connell Barrett (Dating Transformation), and Kimberly Nina Hill. These need a proper profile.
 2. **Luxury matchmaking**: Bliss Science offers matchmaking, but no matchmaking competitors have been analyzed yet.
-3. **Keyword data**: No verified search volume or difficulty numbers yet. Pull these from an SEO tool before prioritizing keywords.
+3. **Keyword data**: Verified with OpenSEO on 2026-09-26. See `competitor-analysis-verification.md`. Several threat tiers and content priorities need revising based on it.
 
 ---
 
