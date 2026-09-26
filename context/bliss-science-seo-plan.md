@@ -105,6 +105,20 @@ Google has shown **60 of your `/post/` pages**. Pages with the most activity:
 - **[UNVERIFIED]** Whether the Authority Magazine page contains a link; medium.com is still blocked from this environment.
 - **To verify:** the GSC "Links" report (search.google.com/search-console → Links), or send me the exact URLs and I'll check each page.
 
+### Podcast and press link check (read directly, 2026-09-26)
+
+| Item | What the page shows |
+|---|---|
+| The Authentic Man (David Chambers), Apple Podcasts | Show notes list "Jessica Website: https://www.bliss-science.com/" as **plain text, not a clickable link** |
+| The Men's Collective, "The Unspoken Rules of Marriage…", Apple Podcasts | **No mention** of bliss-science.com |
+| Healthy Mind, Healthy Life (PodHealth), Apple show page | **No mention**. The episode page redirects to podbean.com, which is blocked here. |
+| School for Startups Radio, Apple Podcasts | Links to the host's Podbean episode page, **not to your site**. The host's own site links to you (OpenSEO record). |
+| The Bootstrapped Founder, Apple Podcasts | **No mention**. tbf.fm links to you (OpenSEO record). |
+| The Guardian (May 16, 2024) | Names "Dr Jessica Gold, the founder of Bliss Science" but has **no link** |
+| SF Gate (Feb 26, 2024) | Names Bliss Science but has **no link** |
+| Good Men Project, Authority Magazine (Medium) | Their bot protection blocked the check (403) |
+| Substack, schoolforstartupsradio.com, podbean.com | Still blocked by this environment's network settings |
+
 ---
 
 ## Part 3: Competitors in Search (OpenSEO, US)
